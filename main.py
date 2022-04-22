@@ -22,7 +22,7 @@ Vlog2 = {
 #Vlog4 = {
 # "Radha":{Vlog1}
 #}
-Vlog3 = ["France":"Paris", "France2":{"Cities_Visited":["Paris","Nice","Deauville"],"No_of Visit" : [4,2,6]},
+Vlog3 = [{"France":"Paris"}, {"France2":{"Cities_Visited":["Paris","Nice","Deauville"],"No_of Visit" : [4,2,6]},}
 ]
 
 print(Vlog3)
